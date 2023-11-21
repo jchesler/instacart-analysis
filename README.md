@@ -21,8 +21,8 @@ Analysis was performed on data containing the following information:
 - customers
 - orders
 - prodcuts
-Data source : The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on [10.16.2023].
-Data on customers and product prices were created for the purpose of this project and not obtained from instacart
+- Data source : The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on [10.16.2023].
+- Data on customers and product prices were created for the purpose of this project and not obtained from instacart
 ## Tools
 - Pandas
 - Seaborn
